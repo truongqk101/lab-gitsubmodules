@@ -1,0 +1,6 @@
+[submodule "src/packages/module-x"]
+	path = src/packages/module-x
+	url = git@github.com:truongqk101/lab-submodule-1.git
+[submodule "src/packages/module-y"]
+	path = src/packages/module-y
+	url = git@github.com:truongqk101/lab-submodule-2.git
